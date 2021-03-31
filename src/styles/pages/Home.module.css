@@ -1,0 +1,18 @@
+.container {
+    height: 100vh;
+    max-width: 992px;
+    margin: 0 auto;
+    padding: 2.5rem 2rem;
+
+    display: flex;
+    flex-direction: column; /*para que os elementos após o ExperienceBar, fiquem um abaixo do outro. Caso quisesse um ao lado do outro, botaria 'row' */
+}
+
+.container section {
+    flex: 1;
+
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 6.25rem;
+    align-content: center;
+}
