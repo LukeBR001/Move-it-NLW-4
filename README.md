@@ -72,3 +72,21 @@
 #
 
 <br/>
+
+## Você pode ver como ficou a aplicação aqui:
+ - [Move-it](https://moveit-five-lac.vercel.app
+)
+- [Move-it](moveit-9eksex28v-lukebr001.vercel.app
+)
+
+<br/>
+
+- **PS:** Por algum motivo o app ficou meio bugado na proporção 100%, coloque 90%.<BR/> ***NA MINHA MÁQUINA RODOU NORMAL KKKKKK***
+
+<br/>
+
+#
+
+<br/>
+
+
